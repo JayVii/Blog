@@ -60,6 +60,10 @@ includes not only the "real fiscal capacity" of said region, but also the
 communal share of the income and turnover tax, excluding the apportionment of
 the occupational tax. Authorities provide this data for each 401 county in
 [every year](https://www.destatis.de/DE/Publikationen/Thematisch/FinanzenSteuern/AlteAusgaben/RealsteuervergleichAlt.html).
+Since we are dealing with regions with varying population numbers, it makes
+sense to use the "communal fiscal capacity per inhabitant" instead of the total
+number for each county in order to reflect differences real *strength*.
+Hereinafter, this is labeled as "economic strength per Inhabitant (ESI)".
 
 As mentioned before, it is rather imprecise to simply match each rental flat to
 the *economic strength* of the county it is located in. It is safe to assume at
