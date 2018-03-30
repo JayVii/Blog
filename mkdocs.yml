@@ -1,3 +1,6 @@
+# Copyright (c) 2018 Jan "JayVii" <jayvii@posteo.de>
+# SPDX-License-Identifier: GPL-3.0
+
 site_name: JV//Blog
 theme: bootstrap
 docs_dir: docs
