@@ -72,7 +72,6 @@ Due to the lack of proper empirical evidence and research by others, a simple
 inverse form was used:
 
 ![WESI formula](https://latex.codecogs.com/gif.latex?wesi_f%3d\sum_{c%3d1}^{401}+\frac{esi_f}{d_{fc}})
-\ 
 
 *With:*
 
@@ -93,7 +92,6 @@ it will have a much higher *wesi* than an identical flat within that *weaker*
 county which has a higher spatial distance to the *stronger* one.
 
 ![Example case for WESI](./img/wesi.png)
-\ 
 
 It should be clear, that this indicator is problematic in multiple ways. The
 influence is assumed to be of the same form for all Germany, however it is not
