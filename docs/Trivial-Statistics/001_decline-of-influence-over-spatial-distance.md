@@ -75,7 +75,7 @@ flat's rental price declines with rising spatial distance between each other.
 Due to the lack of proper empirical evidence and research by others, a simple
 inverse form was used:
 
-![WESI formula](https://latex.codecogs.com/gif.latex?wesi_f%3d\sum_{c%3d1}^{401}+\frac{esi_f}{d_{fc}})
+![WESI formula](./eq/001_wesi.png)
 
 *With:*
 
