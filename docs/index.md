@@ -1,17 +1,17 @@
-# Welcome to MkDocs
+# Blog
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+![<-](../img/back.svg) **[Back to jayvii.de](https://www.jayvii.de)**
 
-## Commands
+## Berlin 2018
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+**[Overview](./Berlin-2018/)**
 
-## Project layout
+> In early 2018 I did an internship at [FSFE](https://fsfe.org) in Berlin. This
+> "Blog" exists to document my experiences in Berlin and at FSFE.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Trivial Statistics
+
+**[Overview](./Trivial-Statistics/)**
+
+> Rambling about statistics, probability, solution finding and implementation in
+> GNU R.

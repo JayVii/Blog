@@ -1,5 +1,7 @@
 ## Starting the internship
 
+![<-](../img/back.svg) **[Back to the Overview](./index.html)**
+
 ---
 
 ### 07.01.18 / 08.01.18
