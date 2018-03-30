@@ -5,7 +5,7 @@ OUTFILES=$(wildcard *.png)
 all:
 	latexmk -pdf ${INFILES1}
 	latexmk -c
-	mogrify -format png -- *.pdf
+	mogrify -format png -density 300 -- *.pdf
 	rm ./*.pdf
 
 clean:
