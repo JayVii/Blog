@@ -16,6 +16,7 @@ clean:
 	${RM} ${OUTFILES} ${INFILES2} ${LICENSES}
 
 license:
+	${RM} ${LICENSES}
 	for f in ${OUTFILES} ; do \
 	  grep "%" $$(echo $$f | sed -e 's/\.png/.tex/g') > $$f.license ; \
 	  sed -i $$f.license -e 's/%\ //' -e 's/GPL-3\.0/CC-BY-SA-4.0/' ; \
