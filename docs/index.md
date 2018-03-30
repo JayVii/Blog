@@ -1,6 +1,6 @@
 # Blog
 
-![<-](../img/back.svg) **[Back to jayvii.de](https://www.jayvii.de)**
+![<-](./img/back.svg) **[Back to jayvii.de](https://www.jayvii.de)**
 
 ## Berlin 2018
 
