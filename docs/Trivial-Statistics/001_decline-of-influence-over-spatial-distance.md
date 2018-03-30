@@ -1,5 +1,7 @@
 # Declining influence over geographical distance
 
+![<-](../img/back.svg) **[Back to the Overview](./index.html)**
+
 ## Background
 
 At the end of last year (Dec. '17), I finished my Bachelor's thesis about the
