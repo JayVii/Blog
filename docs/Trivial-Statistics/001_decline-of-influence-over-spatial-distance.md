@@ -1,4 +1,4 @@
-# Declining influence over geographical distance
+# Declining influence over spatial distance
 
 ![<-](../img/back.svg) **[Back to the Overview](./index.html)**
 
