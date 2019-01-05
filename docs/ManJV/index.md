@@ -5,4 +5,4 @@ in the future.
 
 ## Documenation
 
-- [Emacs](./emacs.md)
+- [Emacs](./Emacs)
