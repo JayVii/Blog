@@ -3,10 +3,18 @@
 ## Table of Contents
 
 1. [Prerequesists](#prerequesists)
+
 	1.1 [PHP Configuration](#php-configuration)
+
 	1.2 [Configure Database](#configure-database)
+
 2. [Install Nextcloud](#install-nextcloud)
+
 	2.1 [Setup Nextcloud](#setup-nextcloud)
+
+	2.2 [Install Nextcloud Apps](#install-nextcloud-apps)
+
+	2.3 [Configure Nextcloud](#configure-nextcloud)
 	
 
 ## Prerequesists
@@ -169,57 +177,99 @@ Usage survey
 #Video player
 ```
 
-### Configure Apps
+### Configure Nextcloud
 
 Basics:
+
 	- Configure SMTP (WIP)
 
+
 Sharing:
+
 	- Sharing with group only: `enable`
+
 	- Federated Cloud Sharing: `disable`
 
+
 Security:
+
 	- Serverside Encryption: `enable`
 
+
 Design:
+
 	- Name: `VO-Cloud`
+
 	- URL: `use-url-here`
+
 	- Slogan: ` `
+
 	- Colour: `#354f6a`
+
 	- Logo: `vo_none.png`
+
 	- Loginscreen: ` `
+
 	- URL to Impressum: ` `
+
 	- URL to privacy declaration: ` `
+
 	- Header image: `vo_none.png`
+
 	- Favicon: `vo_darkblue.png`
 
+
 OnlyOffice:
+
 	- Serveraddress: ` `
+
 	- Secret key: ` `
+
 	- standard extensions: all but `csv`, `epub`, `html`, `txt`
+
 	- Feedback & Support: `disable`
+
 	- Tabs: `enable`
 
+
 External Sites:
+
 	- VirtualOffice, `url-here`, `vo_none64.png`, header, forward
+
 	- Chat, `url-here`, `chat_mono64.png`, header, forward
+
 	- Conference, `url-here`, `conference_mono64.png`, header, no-forward
 
+
 Terms of Use:
+
 	- /
 
+
 Sidemenu:
+
 	- Background Colour: `#354f6a`, `#354f6a`
+
 	- Background Colour of current app: `#5881AB`
+
 	- Text Colour: `#ffffff`
+
 	- Force light icons: `yes`
+
 	- Icon: `default`
+
 	- Position: `before the logo`
+
 	- Hidden logo: `no`
+
 	- Hide on public pages: `no`
+
 	- Open on mouse hover: `no`
+
 	- Enable Shortcuts: `yes`
+
 	- Icons and Text: `Big icons`, `normal text`
+
 
 App-Order:
 
@@ -238,7 +288,12 @@ App-Order:
     DISABLE EVERYTHING ELSE
 ```
 
+
 Additional Settings:
+
 	- Draw.io:
+
 		- theme: `kennedy`
+
 		- open XML: `yes`
+

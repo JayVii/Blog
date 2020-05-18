@@ -15,15 +15,3 @@
 
 > Rambling about statistics, probability, solution finding and implementation in
 > GNU R.
-
-## Man JayVii
-
-**[Overview](./ManJV/)**
-
-> Random documentation for random software.
-
-## ShoutBox
-
-**[Overview](./ShoutBox/)**
-
-> Personal Blog.
