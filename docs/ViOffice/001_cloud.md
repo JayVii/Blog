@@ -181,119 +181,119 @@ Usage survey
 
 Basics:
 
-	- Configure SMTP (WIP)
+- Configure SMTP (WIP)
 
 
 Sharing:
 
-	- Sharing with group only: `enable`
+- Sharing with group only: `enable`
 
-	- Federated Cloud Sharing: `disable`
+- Federated Cloud Sharing: `disable`
 
 
 Security:
 
-	- Serverside Encryption: `enable`
+- Serverside Encryption: `enable`
 
 
 Design:
 
-	- Name: `VO-Cloud`
+- Name: `VO-Cloud`
 
-	- URL: `use-url-here`
+- URL: `use-url-here`
 
-	- Slogan: ` `
+- Slogan: ` `
 
-	- Colour: `#354f6a`
+- Colour: `#354f6a`
 
-	- Logo: `vo_none.png`
+- Logo: `vo_none.png`
 
-	- Loginscreen: ` `
+- Loginscreen: ` `
 
-	- URL to Impressum: ` `
+- URL to Impressum: ` `
 
-	- URL to privacy declaration: ` `
+- URL to privacy declaration: ` `
 
-	- Header image: `vo_none.png`
+- Header image: `vo_none.png`
 
-	- Favicon: `vo_darkblue.png`
+- Favicon: `vo_darkblue.png`
 
 
 OnlyOffice:
 
-	- Serveraddress: ` `
+- Serveraddress: ` `
 
-	- Secret key: ` `
+- Secret key: ` `
 
-	- standard extensions: all but `csv`, `epub`, `html`, `txt`
+- standard extensions: all but `csv`, `epub`, `html`, `txt`
 
-	- Feedback & Support: `disable`
+- Feedback & Support: `disable`
 
-	- Tabs: `enable`
+- Tabs: `enable`
 
 
 External Sites:
 
-	- VirtualOffice, `url-here`, `vo_none64.png`, header, forward
+- VirtualOffice, `url-here`, `vo_none64.png`, header, forward
 
-	- Chat, `url-here`, `chat_mono64.png`, header, forward
+- Chat, `url-here`, `chat_mono64.png`, header, forward
 
-	- Conference, `url-here`, `conference_mono64.png`, header, no-forward
+- Conference, `url-here`, `conference_mono64.png`, header, no-forward
 
 
 Terms of Use:
 
-	- /
+- /
 
 
 Sidemenu:
 
-	- Background Colour: `#354f6a`, `#354f6a`
+- Background Colour: `#354f6a`, `#354f6a`
 
-	- Background Colour of current app: `#5881AB`
+- Background Colour of current app: `#5881AB`
 
-	- Text Colour: `#ffffff`
+- Text Colour: `#ffffff`
 
-	- Force light icons: `yes`
+- Force light icons: `yes`
 
-	- Icon: `default`
+- Icon: `default`
 
-	- Position: `before the logo`
+- Position: `before the logo`
 
-	- Hidden logo: `no`
+- Hidden logo: `no`
 
-	- Hide on public pages: `no`
+- Hide on public pages: `no`
 
-	- Open on mouse hover: `no`
+- Open on mouse hover: `no`
 
-	- Enable Shortcuts: `yes`
+- Enable Shortcuts: `yes`
 
-	- Icons and Text: `Big icons`, `normal text`
+- Icons and Text: `Big icons`, `normal text`
 
 
 App-Order:
 
 ```
-    VirtualOffice
-    Chat
-    Conference
-    Dateien
-    Kalender
-    E-Mail
-    Kontakte
-    Notizen
-    Deck
-    Termine
-    Umfragen
-    DISABLE EVERYTHING ELSE
+VirtualOffice
+Chat
+Conference
+Dateien
+Kalender
+E-Mail
+Kontakte
+Notizen
+Deck
+Termine
+Umfragen
+DISABLE EVERYTHING ELSE
 ```
 
 
 Additional Settings:
 
-	- Draw.io:
+- Draw.io:
 
-		- theme: `kennedy`
+    - theme: `kennedy`
 
-		- open XML: `yes`
+    - open XML: `yes`
 
