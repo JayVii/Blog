@@ -2,90 +2,90 @@
 
 ## Architects
 
-- [ ] Nightmares
+- &#65794; Nightmares
 
-- [ ] Ruin
+- &#65794; Ruin
 
-- [X] Hollow Crown
+- &#10003; Hollow Crown
 
-- [X] The Here And Now
+- &#10003; The Here And Now
 
-- [X] Daybreaker
+- &#10003; Daybreaker
 
-- [X] Lost Forever // Lost Together
+- &#10003; Lost Forever // Lost Together
 
-- [X] All Our Gods Have Abandoned Us
+- &#10003; All Our Gods Have Abandoned Us
 
-- [X] Holy Hell
+- &#10003; Holy Hell
 
 ## Adept
 
-- [ ] Another Year of Disaster
+- &#65794; Another Year of Disaster
 
-- [ ] Death Dealers
+- &#65794; Death Dealers
 
-- [X] Silence The World
+- &#10003; Silence The World
 
-- [X] Sleepless
+- &#10003; Sleepless
 
-- [ ] AYOD (10th anniversary)
+- &#65794; AYOD (10th anniversary)
 
 ## Billy Talent
 
-- [X] Billy Talent
+- &#10003; Billy Talent
 
-- [X] Billy Talent II
+- &#10003; Billy Talent II
 
-- [X] Billy Talent III
+- &#10003; Billy Talent III
 
-- [X] Dead Silence
+- &#10003; Dead Silence
 
-- [X] Afraid Of Heights
+- &#10003; Afraid Of Heights
 
 ## Infected Rain
 
-- [ ] Asylum
+- &#65794; Asylum
 
-- [ ] Endorphin
+- &#65794; Endorphin
 
 ## Spiritbox
 
-- [ ] Spiritbox
+- &#65794; Spiritbox
 
-- [ ] Rule of Nines
+- &#65794; Rule of Nines
 
-- [ ] Blessed Be
+- &#65794; Blessed Be
 
 ## Red Handed Denial
 
-- [ ] Redeemer
+- &#65794; Redeemer
 
 ## Jinjer
 
-- [ ] Macro
+- &#65794; Macro
 
-- [ ] King of Everything
+- &#65794; King of Everything
 
-- [ ] Cloud Factory
+- &#65794; Cloud Factory
 
 ## Northlane
 
-- [ ] Discoveries
+- &#65794; Discoveries
 
-- [X] Singularities
+- &#10003; Singularities
 
-- [ ] Node
+- &#65794; Node
 
-- [ ] Mesmer
+- &#65794; Mesmer
 
-- [ ] Analog Future
+- &#65794; Analog Future
 
-- [ ] Alien
+- &#65794; Alien
 
 ## Oceans Ate Alaska
 
-- [ ] Lost Isles
+- &#65794; Lost Isles
 
-- [X] Hikari
+- &#10003; Hikari
 
 
