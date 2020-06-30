@@ -88,4 +88,18 @@
 
 - &#10003; Hikari
 
+## Rise Against
 
+- &#10003; The Unraveling
+
+- &#10003; Siren Songs Of The Counter-Culture
+
+- &#10003; The Sufferer & The Witness
+
+- &#10003; Appeal To Reason
+
+- &#10003; Endgame
+
+- &#10003; The Black Market
+
+- &#10003; Wolves
