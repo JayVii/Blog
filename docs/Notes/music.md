@@ -1,105 +1,153 @@
-# Music Whishlist
+# Music-List
+
+![[ ]](./img/close_x24.png) - Do not own this item yet.
+
+![[X]](./img/check_x24.png) - Already own this item.
 
 ## Architects
 
-- &#65794; Nightmares
+- ![[ ]](./img/close_x24.png) Nightmares
 
-- &#65794; Ruin
+- ![[ ]](./img/close_x24.png) Ruin
 
-- &#10003; Hollow Crown
+- ![[X]](./img/check_x24.png) Hollow Crown
 
-- &#10003; The Here And Now
+- ![[X]](./img/check_x24.png) The Here And Now
 
-- &#10003; Daybreaker
+- ![[X]](./img/check_x24.png) Daybreaker
 
-- &#10003; Lost Forever // Lost Together
+- ![[X]](./img/check_x24.png) Lost Forever // Lost Together
 
-- &#10003; All Our Gods Have Abandoned Us
+- ![[X]](./img/check_x24.png) All Our Gods Have Abandoned Us
 
 - ![[X]](./img/check_x24.png) Holy Hell
 
 ## Adept
 
-- &#65794; Another Year of Disaster
+- ![[ ]](./img/close_x24.png) Another Year of Disaster
 
-- &#65794; Death Dealers
+- ![[ ]](./img/close_x24.png) Death Dealers
 
-- &#10003; Silence The World
+- ![[X]](./img/check_x24.png) Silence The World
 
-- &#10003; Sleepless
+- ![[X]](./img/check_x24.png) Sleepless
 
-- &#65794; AYOD (10th anniversary)
+- ![[ ]](./img/close_x24.png) AYOD (10th anniversary)
 
 ## Billy Talent
 
-- &#10003; Billy Talent
+- ![[X]](./img/check_x24.png) Billy Talent
 
-- &#10003; Billy Talent II
+- ![[X]](./img/check_x24.png) Billy Talent II
 
-- &#10003; Billy Talent III
+- ![[X]](./img/check_x24.png) Billy Talent III
 
-- &#10003; Dead Silence
+- ![[X]](./img/check_x24.png) Dead Silence
 
-- &#10003; Afraid Of Heights
+- ![[X]](./img/check_x24.png) Afraid Of Heights
+
+## Earshot
+
+- ![[X]](./img/check_x24.png) Two
+
+## Enter Shikari
+
+- ![[X]](./img/check_x24.png) Take To The Skies
+
+- ![[ ]](./img/close_x24.png) Tribalism
+
+- ![[ ]](./img/close_x24.png) A Flash Flood Of Colour
+
+- ![[ ]](./img/close_x24.png) The Mindsweep
 
 ## Infected Rain
 
-- &#65794; Asylum
+- ![[ ]](./img/close_x24.png) Asylum
 
-- &#65794; Endorphin
-
-## Spiritbox
-
-- &#65794; Spiritbox
-
-- &#65794; Rule of Nines
-
-- &#65794; Blessed Be
-
-## Red Handed Denial
-
-- &#65794; Redeemer
+- ![[X]](./img/check_x24.png) Endorphin
 
 ## Jinjer
 
-- &#65794; Macro
+- ![[X]](./img/check_x24.png) Macro
 
-- &#65794; King of Everything
+- ![[X]](./img/check_x24.png) King of Everything
 
-- &#65794; Cloud Factory
+- ![[ ]](./img/close_x24.png) Cloud Factory
+
+## La Dispute
+
+- ![[ ]](./img/close_x24.png) Vancouver
+
+- ![[ ]](./img/close_x24.png) Somewhere At The Bottom Of The River Between Vega And Altair
+
+- ![[X]](./img/check_x24.png) Wildlife
+
+- ![[ ]](./img/close_x24.png) Rooms Of The House
+
+- ![[ ]](./img/close_x24.png) Tiny Dots
 
 ## Northlane
 
-- &#65794; Discoveries
+- ![[ ]](./img/close_x24.png) Discoveries
 
-- &#10003; Singularities
+- ![[X]](./img/check_x24.png) Singularities
 
-- &#65794; Node
+- ![[ ]](./img/close_x24.png) Node
 
-- &#65794; Mesmer
+- ![[ ]](./img/close_x24.png) Mesmer
 
-- &#65794; Analog Future
+- ![[ ]](./img/close_x24.png) Analog Future
 
-- &#65794; Alien
+- ![[ ]](./img/close_x24.png) Alien
 
 ## Oceans Ate Alaska
 
-- &#65794; Lost Isles
+- ![[ ]](./img/close_x24.png) Lost Isles
 
-- &#10003; Hikari
+- ![[X]](./img/check_x24.png)  Hikari
+
+## Red Handed Denial
+
+- ![[ ]](./img/close_x24.png) Redeemer
 
 ## Rise Against
 
-- &#10003; The Unraveling
+- ![[X]](./img/check_x24.png) The Unraveling
 
-- &#10003; Siren Songs Of The Counter-Culture
+- ![[X]](./img/check_x24.png) Siren Songs Of The Counter-Culture
 
-- &#10003; The Sufferer & The Witness
+- ![[X]](./img/check_x24.png) The Sufferer & The Witness
 
-- &#10003; Appeal To Reason
+- ![[X]](./img/check_x24.png) Revolutions Per Minute
 
-- &#10003; Endgame
+- ![[X]](./img/check_x24.png) Appeal To Reason
 
-- &#10003; The Black Market
+- ![[X]](./img/check_x24.png) Endgame
 
-- &#10003; Wolves
+- ![[X]](./img/check_x24.png) The Black Market
+
+- ![[X]](./img/check_x24.png) Wolves
+
+## Spiritbox
+
+- ![[ ]](./img/close_x24.png) Spiritbox
+
+- ![[ ]](./img/close_x24.png) Rule of Nines
+
+- ![[ ]](./img/close_x24.png) Blessed Be
+
+## Volbeat
+
+- ![[ ]](./img/close_x24.png) The Strength / The Sound / The Songs
+
+- ![[ ]](./img/close_x24.png) Rock The Rebel / Metal The Devil
+
+- ![[ ]](./img/close_x24.png) Guitar Gangsters & Cadillac Blood
+
+- ![[X]](./img/check_x24.png) Beyond Hell / Above Heaven
+
+- ![[ ]](./img/close_x24.png) Outlaw Gentlemen & Shady Ladies
+
+- ![[ ]](./img/close_x24.png) Seal The Deal & Let's Boogie
+
+- ![[ ]](./img/close_x24.png) Rewind, Replay, Rebound
