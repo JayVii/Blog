@@ -16,7 +16,7 @@
 
 - &#10003; All Our Gods Have Abandoned Us
 
-- &#10003; Holy Hell
+- ![[X]](./img/check_x24.png) Holy Hell
 
 ## Adept
 
