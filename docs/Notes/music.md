@@ -140,11 +140,13 @@
 
 ## Spiritbox
 
-- ![[ ]](./img/close_x24.png) Spiritbox
+- ![[X]](./img/check_x24.png) Spiritbox
 
-- ![[ ]](./img/close_x24.png) Rule of Nines
+- ![[X]](./img/check_x24.png) Rule of Nines
 
-- ![[ ]](./img/close_x24.png) Blessed Be
+- ![[X]](./img/check_x24.png) Blessed Be
+
+- ![[X]](./img/check_x24.png) Holy Roler
 
 ## Volbeat
 
