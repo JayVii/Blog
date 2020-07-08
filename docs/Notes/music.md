@@ -146,7 +146,7 @@
 
 - ![[X]](./img/check_x24.png) Blessed Be
 
-- ![[X]](./img/check_x24.png) Holy Roler
+- ![[X]](./img/check_x24.png) Holy Roller
 
 ## Volbeat
 
