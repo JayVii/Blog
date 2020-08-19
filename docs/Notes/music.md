@@ -64,6 +64,10 @@
 
 - ![[ ]](./img/close_x24.png) Asylum
 
+- ![[ ]](./img/close_x24.png) Embrace Eternity
+
+- ![[ ]](./img/close_x24.png) 86
+
 - ![[X]](./img/check_x24.png) Endorphin
 
 ## iwrestledabearonce
